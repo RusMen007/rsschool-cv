@@ -1,0 +1,1 @@
+https://github.com/RusMen007/rsschool-cv/blob/gh-pages/cv.md

@@ -1,14 +1,74 @@
+body {
+    margin: 35px;
+}
+p {
+    font-size: 18px;
+}
 h1 {
-    color: aliceblue;
     text-align: center;
 }
-html {
-    background-image: url(graham.jpg);
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-attachment: fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+hr {
+    background-color: black;
+}
+figure {
+    padding: 25px;
+    margin: 0px;
+}
+.logo {
+    float: left;
+    display: inline-block;
+    padding-top: 0px;
+    padding-right: 0px;
+
+}
+.footer-logo {
+    padding: 0px;
+
+}
+nav {
+    color: white;
+    text-align: center;
+    height: 70px;
+    background-color: black;
+    width: 100%;
+}
+nav ul {
+    padding-right: 150px;
+    display: flex;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 5px;
+    list-style: none;
+    display: inline-block;
+}
+nav ul li {
+    padding-right: 15px;
+    display: inline-block;
+}
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+footer {
+    color: white;
+    position: fixed;
+    left: 0; bottom: 0;
+    height: 70px;
+    width: 100%;
+    background-color: black;
+    font-size: 18px;
+    text-align: center;
+}
+footer a {
+    color: white;
+    text-decoration: underline;
+    float: right;
+    padding-right: 30px;
+    padding-top: 20px;
+}
+footer div {
+    display: inline-block;
+    text-align: center;
+    padding-top: 20px;
+    padding-right: 50px;
 }

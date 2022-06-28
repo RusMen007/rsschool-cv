@@ -1,3 +1,2 @@
-https://github.com/RusMen007/rsschool-cv/cv.md   
-
-https://github.com/RusMen007/rsschool-cv/index.html
+https://RusMen007.github.io/rsschool-cv/cv  
+https://RusMen007.github.io/rsschool-cv/
